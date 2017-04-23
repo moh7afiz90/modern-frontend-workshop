@@ -3,10 +3,12 @@
 ## HTML5 & CSS3
 * Semantic Elements: https://www.w3schools.com/html/html5_new_elements.asp
 * Flexbox vs Grid!: http://tutorialzine.com/2017/03/css-grid-vs-flexbox/
-* Stylesheets pre-processor: [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/) 
+* Stylesheets pre-processor: [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/)
 * Helper tools: [emmet](https://emmet.io/), [placehold.it](http://placehold.it)
+* HTML Fundamentals - SoloLearn (https://www.sololearn.com/Course/HTML/)
+* Lean to code HTML & CSS - Shay Howe (http://learn.shayhowe.com/html-css/)
 
-## jQuery 
+## jQuery
 * Tutorial: https://www.w3schools.com/jquery/
 * Why CDN: https://gtmetrix.com/why-use-a-cdn.html
 
@@ -32,8 +34,10 @@ Note: Vue.js can be replaced with Facebook React.
 * Server-Side Rendering: https://vuejs.org/v2/guide/ssr.html
 * Vuex Store: https://nuxtjs.org/examples/vuex-store, [persistedstate](https://github.com/robinvdvleuten/vuex-persistedstate)
 * Nuxt Frameworks: https://nuxtjs.org/
-* Vue Strap: [bootstrap4 & vue2](https://github.com/bootstrap-vue), [bootstrap3 & vue1](https://github.com/yuche/vue-strap) 
+* Vue Strap: [bootstrap4 & vue2](https://github.com/bootstrap-vue), [bootstrap3 & vue1](https://github.com/yuche/vue-strap)
 
 ## Dealing with APIs
 * Axios: https://github.com/mzabriskie/axios
 * Nuxt AsyncData: https://nuxtjs.org/guide/async-data/
+* What is an API https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82
+* Build Node.js RESTful APIs in 10 minutes https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
