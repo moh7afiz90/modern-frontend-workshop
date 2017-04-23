@@ -5,8 +5,8 @@
 * Flexbox vs Grid!: http://tutorialzine.com/2017/03/css-grid-vs-flexbox/
 * Stylesheets pre-processor: [SASS](http://sass-lang.com/), [LESS](http://lesscss.org/)
 * Helper tools: [emmet](https://emmet.io/), [placehold.it](http://placehold.it)
-* HTML Fundamentals - SoloLearn (https://www.sololearn.com/Course/HTML/)
-* Lean to code HTML & CSS - Shay Howe (http://learn.shayhowe.com/html-css/)
+* HTML Fundamentals - SoloLearn: (https://www.sololearn.com/Course/HTML/)
+* Lean to code HTML & CSS - Shay Howe: (http://learn.shayhowe.com/html-css/)
 
 ## jQuery
 * Tutorial: https://www.w3schools.com/jquery/
@@ -39,5 +39,5 @@ Note: Vue.js can be replaced with Facebook React.
 ## Dealing with APIs
 * Axios: https://github.com/mzabriskie/axios
 * Nuxt AsyncData: https://nuxtjs.org/guide/async-data/
-* What is an API https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82
-* Build Node.js RESTful APIs in 10 minutes https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+* What is an API: https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82
+* Build Node.js RESTful APIs in 10 minutes: https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
